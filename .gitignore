@@ -1,0 +1,13 @@
+# Maven build output
+/target/
+
+# IDE configurations
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+dependency-reduced-pom.xml
+
+# Log files
+*.log
