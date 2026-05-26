@@ -165,3 +165,4 @@ Here are the most common questions examiners ask during a DevOps project viva:
 **Answer:** Once the image is pushed to Docker Hub, we can deploy it on any server (like AWS, Azure, DigitalOcean, or a local server) by simply installing Docker and running:
 `docker run -d -p 80:8080 <your-docker-username>/devops-ci-cd:latest`
 This downloads the image from Docker Hub and runs it in the background on port 80.
+Updated CI/CD
